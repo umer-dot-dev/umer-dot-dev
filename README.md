@@ -21,7 +21,6 @@
 * **SwiftPay:** Digital banking application.
 * **Asaan Rep.AI:** AI-powered medical report summarizer.
 * **Dispatch Grow:** Enterprise CRM with Kanban management.
-* 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](http://www.linkedin.com/in/umersheraz09)
 - 📍 Based in Lahore, Pakistan
