@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Umer! 👋
 
-<!--
-**umer-dot-dev/umer-dot-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer & Cybersecurity Student** Currently in my 6th Semester of BSCS, focusing on secure web architecture and ethical hacking.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** JavaScript (Hono, Node), PHP (Laravel), Python
+- **Frontend:** Quasar Framework, Vue.js, Tailwind CSS
+- **Security:** Kali Linux, CEH v13 (In Progress) 🛡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Active Projects
+- **SwiftPay:** Digital banking application.
+- **Asaan Rep.AI:** AI-powered medical report summarizer.
+- **Dispatch Grow:** Enterprise CRM with Kanban management.
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](http://www.linkedin.com/in/umersheraz09)
+- 📍 Based in Lahore, Pakistan
+
+---
+*"Building secure solutions, one commit at a time."*
