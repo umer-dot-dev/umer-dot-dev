@@ -23,7 +23,7 @@
 * **Dispatch Grow:** Enterprise CRM with Kanban management.
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](http://www.linkedin.com/in/umersheraz09)
-- 📍 Based in Lahore, Pakistan
+- 📍 Based in Lahore, Pakistan.
 ---
 
 ### 📊 My Stats
